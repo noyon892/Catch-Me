@@ -1,0 +1,1 @@
+unityRebuildLibraryVersion: 11unityForwardCompatibleVersion: 40
